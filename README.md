@@ -1,0 +1,2 @@
+# IMSS
+Desarrollar un sistema que permita controlar y gestionar los equipos de cómputo por medio de una plataforma web que va a realizar seguimientos de las reparaciones y mantenimientos de los equipos de cómputo, así como recibir y almacenar los reportes de los fallos que encuentren en los equipos por medio de un sistema de incidencias. Además de monitorear las piezas y equipos de cómputo mediante un control de inventario, esto en el Instituto Mexicano del Seguro Social.
